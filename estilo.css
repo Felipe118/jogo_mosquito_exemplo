@@ -15,7 +15,7 @@ body{
     height: 90px;
     width: 90px;
 }
-.ladoA{
+.ladoA{ 
     transform: scaleX(1);
 }
 .ladoB{
