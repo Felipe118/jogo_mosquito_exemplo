@@ -1,0 +1,2 @@
+Este jogo se trata de um jogo em JS, de mata mosquito em um certo tempo de 15 segundos 
+caso não mate terá 3 tentativas três vidas e caso não consiga será dado Game Over
