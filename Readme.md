@@ -6,5 +6,5 @@
  ## Competências utilizdas
  * HTML
  * CSS
- *javaScript
+ * javaScript
  * Bootstrap
